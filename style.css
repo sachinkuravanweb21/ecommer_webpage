@@ -1,0 +1,50 @@
+body {
+    box-sizing: border-box;
+    background-color: DodgerBlue;
+  }
+  
+  p {
+    margin: 10px;
+    padding:  20px;  
+    color: yellow;
+    font-size: 30px;
+      
+    
+  }
+  
+  .navbar li{
+     list-style: none;
+    font-size: 20px;
+    padding: 20px;
+  }
+  
+  .strike{
+    text-decoration: line-through red;
+  }
+    .text{
+      color: red;
+      horizontal: 30px;
+      margin: 20px;
+      padding: 50px;
+      position: absolute; left:110px; top:20px;
+      font-size: 30px;
+  }
+  
+  .types{
+    float: left;
+  }
+  
+  button{
+    background-color: red;
+    color: white;66666
+    3333
+    border: none;
+    padding: 15px 62px;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 30px; 
+  }
+  
+  .cart :hover {
+    background-color: black; /* Green */
+    color: white;
